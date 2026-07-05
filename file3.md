@@ -1,0 +1,1 @@
+How does the script know whether input.content is:  already Base64 (uploaded file), or plain text (manual content)?
