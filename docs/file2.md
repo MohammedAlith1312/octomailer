@@ -1,1 +1,4 @@
-fie is created for github
+---
+title: react basis
+slug: /react
+---
