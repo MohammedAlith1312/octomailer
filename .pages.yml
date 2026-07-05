@@ -22,7 +22,7 @@ content:
         type: text
       - name: url
         type: string
-content:
+
  
 
   # === REACT DOCUMENTATION COLLECTION ===
